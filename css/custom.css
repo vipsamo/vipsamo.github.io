@@ -17,7 +17,9 @@
 #share-dialog {
   display: none;
 }
-
+.text text-large{
+  color:#1de9b6;
+}
 #share-url {
   width: 100%;
   -webkit-touch-callout: default !important;
@@ -31,4 +33,4 @@
 #share-url-copy-prompt {
   display: none;
   color: #007bff;
-}
+}.text text-large
